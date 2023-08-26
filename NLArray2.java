@@ -1,3 +1,15 @@
+ sy
+/**
+ * Name : Aboubakar
+ * CMS ID : 023-22-0107
+ * Course : DSA
+ * Date : 25/8/2023
+ * 
+ * In this program, we read data from a file and then extract emails from the file of different formats then returning it to user without @
+ */
+
+
+
 import java.io.*;
 import java.util.*;
 
