@@ -1,3 +1,13 @@
+/**
+ * Name : Aboubakar
+ * CMS ID : 023-22-0107
+ * Course : DSA
+ * Date : 25/8/2023
+ * 
+ * In this program, we are finding the consecutive values coming in the two dimensional array
+ */
+
+
 import java.util.Scanner;
 
 public class Nvalues{
