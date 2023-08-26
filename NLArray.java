@@ -1,3 +1,15 @@
+/**
+ * Name : Aboubakar
+ * CMS ID : 023-22-0107
+ * Course : DSA
+ * Date : 25/8/2023
+ * 
+ * In this program, we read data from file and then tokenizing every word from file and returning to the user without special characters
+ */
+
+
+
+
 import java.util.*;
 import java.io.*;
 
