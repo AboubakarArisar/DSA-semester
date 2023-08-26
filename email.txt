@@ -1,0 +1,10 @@
+Email: john.doe@gmail.com
+Email: sarah.smith@yahoo.com
+Email: michael.johnson@hotmail.com
+Email: emily.jackson@aol.com
+Email: david.wilson@outlook.com
+Email: linda.brown@gmail.com
+Email: robert.jones@yahoo.com
+Email: sophia.davis@hotmail.com
+Email: william.miller@aol.com
+Email: olivia.martin@outlook.com
