@@ -1,3 +1,14 @@
+/**
+ * Name : Aboubakar
+ * CMS ID : 023-22-0107
+ * Course : DSA
+ * Date : 25/8/2023
+ * 
+ * In this program, we are extracting boundaries in the first part and in second part cropping center in image cropping problem
+ */
+
+
+
 import java.util.Scanner;
 
 public class imageCropping {
