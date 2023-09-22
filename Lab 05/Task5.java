@@ -68,11 +68,11 @@ public class reverselist {
         list.addData(4);
         list.addData(5);
         System.out.println("Orignial linkedlist");
-        list.printRecursive(list.head);
+        list.print();
         Node head = list.makeReverse(list.head);
         System.out.println();
         System.out.println("Reversed list:");
-        list.printRecursive(head);
+        list.print();
 
     }
 }
