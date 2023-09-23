@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Task3b {
+public class Task2b {
     static int mul = 1;
     public static int recursiveFactorial(int num) {
         if(num<1) {
