@@ -15,14 +15,11 @@ public class Task1b {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the range -->  ");
         int N = scanner.nextInt();
-        long startTime = System.nanoTime();
         System.out.println("Fibonacci series up to range ");
         for (int i = 0; i < N; i++) {
             System.out.print(fibonacci(i) + " ");
         }
         System.out.println();
-        long endTime = System.nanoTime();
-        System.out.println("Time taken in recursive approach: " + (endTime - startTime) + " ms");
     }
 
 }
