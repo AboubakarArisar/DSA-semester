@@ -24,7 +24,7 @@ public class Task2Time {
             System.out.println("Recursive approach is best");
         }
         else {
-            System.out.println("Iterative appraoch is not best");
+            System.out.println("Iterative appraoch is best");
         }
 
 
