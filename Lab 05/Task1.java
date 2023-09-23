@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class Task2 {
+public class Task1 {
     public static void printSeries(int range) {
          int sum = 0 , next = 1, curr;
          System.out.print(sum + " ");
