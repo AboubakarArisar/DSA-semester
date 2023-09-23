@@ -15,11 +15,9 @@ public class Task1 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the range till you want fibonacci series --> ");
         int range = sc.nextInt();
-        long startTime = System.nanoTime();
         System.out.println("======Fabonacci Series======");
         printSeries(range);
         System.out.println();
-        long endTime = System.nanoTime();
-        System.out.println("Time taken in iterative approach is --> "+(startTime - endTime) + "ms");
+        
     }
 }
