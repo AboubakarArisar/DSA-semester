@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class Task3 {
+public class Task2 {
     public static void factorial(int num) {
         int mul = 1;
         for(int i = 1 ; i <= num ; i++) {
@@ -13,5 +13,6 @@ public class Task3 {
         System.out.print("Enter the number for factorial --> ");
         int number = sc.nextInt();
         factorial(number);
+        
     }
 }
