@@ -32,7 +32,7 @@ public class Task1Time {
         if (duration1 < duration) {
             System.out.println("Recursive Approach is best");
         } else {
-            System.out.println("Iterative Approach is not best");
+            System.out.println("Iterative Approach is best");
         }
     }
 }
