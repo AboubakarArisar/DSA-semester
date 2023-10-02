@@ -1,0 +1,26 @@
+class Solution {
+    public String[] sortPeople(String[] names, int[] heights) {
+        String returnArray[] =  new String[names.length];
+         int[] copy = new int[heights.length];
+        copy = heights;
+            for(int j = 0; j < names.length; j++) { 
+        
+                returnArray[j] = names[getMax(copy) + 1];  
+            }
+        return returnArray;
+    }
+    public int getMax(int[] heights) {
+        int max = heights[0];
+        int index = 0 ; 
+        for(int i = 0; i < heights.length; i++) {
+            if(heights[i] > max) {
+                max = heights[i];
+                index = i;
+            }
+        }
+        for(int i = 0 ; i < heights.length - 1; i++) {
+            heights[i] = heights[i+1];
+        }
+        return index;
+    }
+}
